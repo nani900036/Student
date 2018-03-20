@@ -9,7 +9,7 @@ public class Test {
 		student.setName("Narsi");
 		student.setSclass("Inter");
 		
-		System.out.println(student.getsId() + student.getName() + student.getSclass());
+		System.out.println("Details of student : "+ student.getsId() + student.getName() + student.getSclass());
 
 	}
 
